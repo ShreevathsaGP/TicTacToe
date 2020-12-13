@@ -2,6 +2,9 @@
 build
 lib/*
 
+# ignore include/SDL
+include/SDL2
+
 # igore the executables
 bin/*
 
